@@ -9,6 +9,7 @@ window.User = User
 import Swal from 'sweetalert2'
 window.Swal = Swal 
 
+
 const app = createApp(App);
 
 app.use(router); 
